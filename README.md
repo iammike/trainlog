@@ -27,12 +27,12 @@ entries.
 
 6. Place the following on any PHP parsed page to show a the table:
 
-   <?php include('trainlog.php'); ?>
+   `<?php include('trainlog.php'); ?>`
 
 Or if the trainlog.php file is not in the same directory as the page you 
 want to show the table on:
 
-   <?php include('/path/to/trainlog.php'); ?>
+    <?php include('/path/to/trainlog.php'); ?>
 
 **PROBLEMS?**
 
@@ -69,4 +69,4 @@ for more details.
 
 You should have received a copy of the GNU General Public License along 
 with this program; if not, write to the Free Software Foundation, Inc., 59
-Temple Place, Suite 330, Boston, MA 02111-1307 USA Title: TrainLog
+Temple Place, Suite 330, Boston, MA 02111-1307 USA
