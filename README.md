@@ -1,10 +1,3 @@
-Title: TrainLog
-Version: 1.01
-Created: March 18, 2005
-Release: March 22, 2005
-Author: Mike C (mike@iammike.org)
-Site: http://www.iammike.org/trainlog
-
 **INSTALLATION INSTRUCTIONS**
 
 1. You will need a MySQL database setup in order to use this script. If 
@@ -54,6 +47,13 @@ Fixed editing functionality, released as originally intended.
 
 0.9 -- March 18, 2005
 First public version, no functionality for editing fields with spaces.
+
+Title: TrainLog
+Version: 1.01
+Created: March 18, 2005
+Release: March 22, 2005
+Author: Mike C (mike@iammike.org)
+Site: http://www.iammike.org/trainlog
 
 **LICENSE INFO**
 
